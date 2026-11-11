@@ -1,10 +1,10 @@
 // ====== Datos de ejemplo: cámbialos por los que quieras mostrar en tu demo ======
 const DATOS = {
-  nombre: "ADRÍAN ARAM H*** G***",
+  nombre: "ANDERSON MANUEL G*** L***",
   codigo: "202514843",
   banner: "0537159",
   carrera: "Ingeniería de Software",
-  campus: "Campus Villa",
+  campus: "Campus San Miguel",
 };
 // =================================================================================
 
